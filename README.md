@@ -6,3 +6,5 @@ To understand how this repository works, read this [Medium article](https://medi
 something wrong
 
 again
+
+why this can be normal?
